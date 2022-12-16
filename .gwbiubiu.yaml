@@ -2,3 +2,4 @@ name: myheader
 import: github.com/gwbiubiu/plugintest
 package: plugintest
 summary: 'myheader from gwbiubiu'
+version: 'v0.0.1'
