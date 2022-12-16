@@ -1,0 +1,4 @@
+name: myheader
+import: github.com/gwbiubiu/plugintest
+package: plugintest
+summary: 'myheader from gwbiubiu'
